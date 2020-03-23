@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "weather.apikey",
+    "type": "java.lang.String",
+    "description": "A description for 'weather.apikey'"
+  },
+  {
+    "name": "weather.url",
+    "type": "java.lang.String",
+    "description": "A description for 'weather.url'"
+  }
+]}

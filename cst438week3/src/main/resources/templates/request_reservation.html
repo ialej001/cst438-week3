@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+	<title>City Info</title>
+	<link rel="stylesheet" type="text/css" th:href="@{../css/style.css}">
+</head>
+	<body>	
+		<div >
+			<p th:inline="text">The details of your weekend get away at the [[${level}]] level will be sent to the email: [[${email}]]</p>
+		</div>
+	</body>
+</html>
